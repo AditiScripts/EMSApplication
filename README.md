@@ -45,14 +45,6 @@ An interactive, menu‐driven Java application for tracking and managing persona
    ```bash
    git clone https://github.com/yourusername/expense-manager.git
    cd expense-manager
- 
-
-## Installation & Setup
-
-1. **Clone the Repository**  
-   ```bash
-   git clone https://github.com/yourusername/expense-manager.git
-   cd expense-manager
 
 For further documentation contact the author.
 Author: Aditi Bhat
