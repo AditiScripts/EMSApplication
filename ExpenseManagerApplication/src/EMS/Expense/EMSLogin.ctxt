@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=EMSLogin
+comment0.text=\r\n\ An\ interface\ is\ an\ abstract\ "class"\ that\ is\ used\ to\ group\ related\ methods\ with\ "empty"\ bodies\:\r\n\ To\ access\ the\ interface\ methods,\ the\ interface\ must\ be\ "implemented"\ (like\ being\ inherited)\ by\ another\ class\ \r\nwith\ the\ implements\ keyword\ (instead\ of\ extends).\r\n\r\n\ The\ body\ of\ the\ interface\ method\ is\ provided\ by\ the\ "implement"\ class\:\r\nNote\:\ Below\ we\ implement\ an\ ActionListener\ that\ listens\ to\ an\ event.\ The\ ActionListener\ class\ can\ be\ found\ in\ the\ java.awt.event\ package.\ \r\nIt\ has\ only\ one\ method\ actionPerformed().\r\nHere\ it\ keeps\ listening\ to\ any\ change\ on\ the\ button\ -\ if\ there\ is\ a\ click,\ and\ if\ so\ performs\ an\ action\ (display\ the\ EMS\ menu).\r\n\r\n(Here,\ the\ action\ is\ attached\ to\ a\ button.\ The\ action\ event\ is\ triggered\ on\ the\ button\ click.)\r\n
+comment1.params=
+comment1.target=EMSLogin()
+comment2.params=we
+comment2.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment3.params=
+comment3.target=void\ DisplayUmenu()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\r\n\ Authentication\:\ This\ method\ will\ be\ invoked\ when\ we\ click\ on\ the\ Login\ button.\ It\ helps\ authenticate\ \r\n\ the\ data\ entered\ in\ the\ username\ and\ password\ fields.\r\n\ Imlementing\ an\ action\ event\ listener\ class\ with\ conditional\ statement\r\n\ JOptionPane\ is\ another\ component\ of\ Java\ GUI,\ it\ comes\ in\ handy\ when\ displaying\ either\ a\ warning,\ \r\n\ success,\ or\ error\ message\ on\ the\ screen,\ as\ a\ dialog\ box.\r\n
+numComments=6

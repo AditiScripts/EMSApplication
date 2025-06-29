@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ExpenseCalculater
+comment1.params=
+comment1.target=void\ ClearResources()
+comment2.params=
+comment2.target=boolean\ IsRecordsEmpty()
+comment3.params=
+comment3.target=void\ DisplayTable()
+comment3.text=\r\n\ \ \ \ Others\ ways\ to\ declare\ an\ array\ String[][]\ myArray\ \=\ new\ String[5][];\ //\ OK\ String[][]\ yourArray\ \=\ new\ String[5][4];\r\n\r\n\ \ \ \ Read\ more\:\ https\://www.java67.com/2014/10/how-to-create-and-initialize-two-dimensional-array-java-example.html\#ixzz7dNOEQW44\r\n
+comment4.params=
+comment4.target=void\ AddExpense()
+comment5.params=Indicator
+comment5.target=void\ Update_RemoveExpense(int)
+comment6.params=
+comment6.target=void\ CalculateExpense()
+comment7.params=
+comment7.target=void\ DisplayAnExpense()
+numComments=8

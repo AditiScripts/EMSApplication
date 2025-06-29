@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DBConnection
+comment1.params=
+comment1.target=java.sql.Connection\ DBGetConn()
+comment2.params=DBNAME
+comment2.target=void\ DBCreate(java.lang.String)
+comment3.params=DBNAME
+comment3.target=void\ DBDel(java.lang.String)
+comment4.params=
+comment4.target=void\ DBList()
+comment5.params=
+comment5.target=void\ DBtableCreate()
+comment6.params=
+comment6.target=void\ DBtableDel()
+comment7.params=
+comment7.target=void\ DBtablelist()
+numComments=8
